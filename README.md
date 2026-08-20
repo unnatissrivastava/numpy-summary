@@ -1,6 +1,6 @@
 # 📘 NumPy Summary
 
-A beginner-friendly summary of essential NumPy concepts with examples, created using Google Colab for quick learning and revision.
+A beginner-friendly summary of essential NumPy concepts with examples, created using *Google Colab for quick learning and revision.
 
 ## 📚 Topics Covered
 
