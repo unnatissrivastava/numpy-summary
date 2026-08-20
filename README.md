@@ -16,7 +16,7 @@ A beginner-friendly summary of essential NumPy concepts with examples, created u
 
 ## 🛠️ Built With
 
- Python
+- Python
 - NumPy
 - Google Colab
 
