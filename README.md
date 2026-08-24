@@ -1,4 +1,4 @@
-# 📘 NumPy
+# 📘 NumP
 
 A beginner-friendly summary of essential NumPy concepts with examples, created using **Google Colab** for quick learning and revision.
 
