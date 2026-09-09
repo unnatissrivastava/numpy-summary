@@ -8,7 +8,7 @@ A beginner-friendly summary of essential NumPy concepts with examples, created u
 -  Creating Arrays
 - Indexing & Slicing
 - Array Operations
-- Ressh
+- Resshaping
 - Broadcasting
 - Mathematical & Statistical Functions
 - Random Module
