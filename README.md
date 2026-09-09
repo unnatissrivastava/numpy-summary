@@ -5,7 +5,7 @@ A beginner-friendly summary of essential NumPy concepts with examples, created u
 ## 📚 Topics Covered
 
 - NumPy Basics
--  Arrays
+-  Creating Arrays
 - Indexing & Slicing
 - Array Operations
 - Reshaping
